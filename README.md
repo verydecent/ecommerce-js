@@ -1,2 +1,2 @@
 # ecommerce-js
-Practicing vanillaja 
+Practicing vanillajs
